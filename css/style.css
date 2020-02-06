@@ -74,4 +74,17 @@ body {
   .wrapper {
     width: 600px;
   }
+
+  #main-content {
+  /* Box-model */
+  margin-bottom: 35px;
+  width: 100%;
+  /* float: none; */
+  }
+
+  #sidebar {
+
+    width: 100%;
+    /* float: none; */
+  }
 }
